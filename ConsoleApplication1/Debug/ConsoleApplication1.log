@@ -1,4 +1,4 @@
 ﻿  ConsoleApplication1.cpp
-c:\users\альмир\documents\учеба\методы вычисления\интерполяция слайма\consoleapplication1\consoleapplication1\consoleapplication1.cpp(82): warning C4715: s3: значение возвращается не при всех путях выполнения
-  ConsoleApplication1.vcxproj -> C:\Users\Альмир\Documents\Учеба\Методы вычисления\Интерполяция Слайма\ConsoleApplication1\Debug\ConsoleApplication1.exe
-  ConsoleApplication1.vcxproj -> C:\Users\Альмир\Documents\Учеба\Методы вычисления\Интерполяция Слайма\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
+c:\users\альмир\documents\учеба\методы_вычисления\интерполяция_слайма\интерполяция_слайма\consoleapplication1\consoleapplication1.cpp(80): warning C4715: s3: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\Альмир\Documents\Учеба\Методы_вычисления\Интерполяция_Слайма\Интерполяция_Слайма\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Альмир\Documents\Учеба\Методы_вычисления\Интерполяция_Слайма\Интерполяция_Слайма\Debug\ConsoleApplication1.pdb (Full PDB)
